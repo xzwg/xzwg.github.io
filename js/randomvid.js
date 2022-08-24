@@ -5,12 +5,12 @@ const videoSettings = '?controls=0&showinfo=0&rel=0&autoplay=1&loop=1&enablejsap
 let video = new Array();
 
 
-//rokstaryeat
+//theraceee
 video.push({
-	video_id: 'oKjQvRFaDyY',
+	video_id: 'OYhXJaEbw7c',
 	video_name: "rokstarr",
-	id: 'oKjQvRFaDyY' + videoSettings + 'start=0',
-	note: 'rokstar',
+	id: 'OYhXJaEbw7c' + videoSettings + 'start=0',
+	note: 'race',
 	volume: 35,
 }); 
 
