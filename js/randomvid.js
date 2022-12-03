@@ -7,9 +7,9 @@ let video = new Array();
 
 //theraceee
 video.push({
-	video_id: '8i4T7LF45R8',
+	video_id: 'D5p4jcuBP9k',
 	video_name: "devil",
-	id: '8i4T7LF45R8' + videoSettings + 'start=0',
+	id: 'D5p4jcuBP9k' + videoSettings + 'start=0',
 	note: 'race',
 	volume: 35,
 }); 
