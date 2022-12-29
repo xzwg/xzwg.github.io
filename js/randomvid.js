@@ -13,7 +13,30 @@ video.push({
 	note: 'race',
 	volume: 35,
 }); 
-
+//theracf
+video.push({
+	video_id: '4KE4wRoT8bA',
+	video_name: "devild",
+	id: '4KE4wRoT8bA' + videoSettings + 'start=0',
+	note: 'rachse',
+	volume: 35,
+}); 
+//theracff
+video.push({
+	video_id: 'TFU1Tg3HJDg',
+	video_name: "devilde",
+	id: 'TFU1Tg3HJDg' + videoSettings + 'start=0',
+	note: 'rachseg',
+	volume: 35,
+}); 
+//theracffg
+video.push({
+	video_id: 'UJWrfMlUO0Q',
+	video_name: "devildec",
+	id: 'UJWrfMlUO0Q' + videoSettings + 'start=0',
+	note: 'rachsegv',
+	volume: 35,
+}); 
 
 
 let randVid = songId && songId >= 0 && songId < video.length ? songId : Math.floor(video.length * Math.random());
